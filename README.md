@@ -15,7 +15,9 @@
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif" width="300px" />
+</p>
 
 ---
 
@@ -35,4 +37,3 @@
 🎯 Open to collabs & cool ideas
 
 ---
-
