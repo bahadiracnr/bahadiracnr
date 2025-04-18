@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahadır Acuner</h1>
-<h3 align="center">Fullstack Developer | AI & Trading Enthusiast | UI/UX to Code</h3>
+<h3 align="center"> I'm currently working as Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://twitter.com/bahadiracnr" target="_blank">
@@ -21,19 +21,3 @@
 
 ---
 
-### 👨‍💻 What I Do
-
-- 🚀 Fullstack projeler geliştiriyorum (`React`, `Spring Boot`, `NestJS`)
-- 🤖 AI destekli kripto tahmin sistemleri üzerine çalışıyorum
-- 🎨 Tasarımdan koda geçiş süreçlerinde tecrübeliyim
-- 🧩 Mikroservis mimarileri ve clean architecture ile ilgileniyorum
-
----
-
-### 📍 Currently
-
-📍 Ankara, Türkiye  
-💼 Actively developing in AI & Microservices projects  
-🎯 Open to collabs & cool ideas
-
----
