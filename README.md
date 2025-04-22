@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahadır Acuner</h1>
-<h3 align="center"> I am definitely a fullstack developer 😎</h3>
+<h3 align="center"> I am definitely a junior fullstack developer 😎</h3>
 
 <p align="center">
   <a href="https://twitter.com/bahadiracnr" target="_blank">
